@@ -1,0 +1,11 @@
+{
+    "soften": "enabled",
+    "soften-format": "<font color='#c7c7c7'><i>$txt</i></font>",
+    "soften-shortcut": "Ctrl+Alt+7",
+    "contrast": "enabled",
+    "contrast-format": "<font color='#ff0000'>$txt</font>",
+    "contrast-shortcut": "Ctrl+Alt+8",
+    "emphasize": "enabled",
+    "emphasize-format": "<i><u><font color='#aa4444'>$txt</font></u></i>",
+    "emphasize-shortcut": "Ctrl+Alt+9"
+}
